@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.so
+*.session.json
+*.log
+*.session.json

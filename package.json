@@ -1,0 +1,25 @@
+{
+  "name": "deepseek-cli",
+  "version": "1.0.0",
+  "description": "Unofficial DeepSeek CLI client with terminal UI",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node --import tsx src/index.tsx",
+    "dev": "tsx src/index.tsx"
+  },
+  "keywords": ["deepseek", "cli", "terminal-ui", "ai"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@claude-code-kit/agent": "^0.3.1",
+    "@claude-code-kit/ink-renderer": "^0.3.1",
+    "@claude-code-kit/ui": "^0.3.1",
+    "@types/node": "^25.9.1",
+    "@types/react": "^19.2.16",
+    "react": "^19.2.7",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}
