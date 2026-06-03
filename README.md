@@ -1,6 +1,6 @@
 # DeepSeek CLI
 
-Unofficial terminal client for [chat.deepseek.com](https://chat.deepseek.com) with streaming support.
+Official terminal client for [chat.deepseek.com](https://chat.deepseek.com) with streaming support.
 
 ## Features
 

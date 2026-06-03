@@ -1,7 +1,7 @@
 {
   "name": "deepseek-cli",
   "version": "1.0.0",
-  "description": "Unofficial DeepSeek CLI client with terminal UI",
+  "description": "Official DeepSeek CLI client with terminal UI",
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
